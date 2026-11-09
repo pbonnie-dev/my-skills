@@ -6,4 +6,3 @@ Claude Code skills, loaded automatically from `.claude/skills/` in any session t
 - Marketing Skills (53 skills): https://github.com/coreyhaines31/marketingskills (MIT, see `LICENSE-marketingskills`)
 - Context Engineering Kit (68 skills): https://github.com/NeoLabHQ/context-engineering-kit (GPL-3.0, see `LICENSE-context-engineering-kit`)
 - LLM Council (1 skill): council of 5 advisors with peer review and chairman verdict, based on Karpathy's LLM Council
-- AI Research Skills (98 skills): https://github.com/Orchestra-Research/AI-Research-SKILLs (MIT, see `LICENSE-ai-research-skills`)
