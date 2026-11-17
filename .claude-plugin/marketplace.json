@@ -1,0 +1,16 @@
+{
+  "name": "my-skills",
+  "owner": {
+    "name": "pbonnie-dev"
+  },
+  "metadata": {
+    "description": "Plugins for pbonnie-dev/my-skills"
+  },
+  "plugins": [
+    {
+      "name": "reflexion",
+      "source": "./plugins/reflexion",
+      "description": "Reflexion plugin from NeoLabHQ/context-engineering-kit (GPL-3.0): reflect, critique and memorize skills. Optional auto-reflect hooks not included."
+    }
+  ]
+}
