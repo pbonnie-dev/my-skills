@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "my-skills": {
+      "source": {
+        "source": "github",
+        "repo": "pbonnie-dev/my-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "reflexion@my-skills": true
+  }
+}
